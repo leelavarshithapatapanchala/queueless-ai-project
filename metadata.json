@@ -1,0 +1,6 @@
+{
+  "name": "QueueLess",
+  "description": "AI-powered smart queue management platform predicting wait times, monitoring crowd levels, and providing virtual tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
